@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Scan and Archive Document
+GenericName=Scan and Archive Document
+Comment=Scan and Archive Documents
+Keywords=scan;scanner;flatbed;adf;
+Exec=/home/archive/archivedoc.sh
+Icon=scanner
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;Graphics;Scanning;
